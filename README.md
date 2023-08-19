@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **singhshashankthakur596@gmail.com**
 <p float="left">
-  <img align="left" width="100" height="100" src="![image](https://github.com/ShashankSingh614/ShashankSingh614/assets/118711840/01aca5ac-35d8-4616-8796-7286abf7ff2f)
-">
+  <img align="left" width="100" height="100" src="https://octodex.github.com/images/megacat.jpg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p>
     <h3 align="left">Languages and Tools:</h3>
