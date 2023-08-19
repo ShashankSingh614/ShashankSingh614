@@ -29,7 +29,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="left" width="100" height="100" src="https://octodex.github.com/images/socialite.jpg">
+  <img align="left" width="100" height="100" src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png">
   <div style="margin-left: 10px;">
     <h3 align="left">Connect with me:</h3>
     <p align="left">
