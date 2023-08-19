@@ -42,5 +42,10 @@
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanksingh614&show_icons=true&locale=en&layout=compact" alt="shashanksingh614" /></p>
-
-![daftpunktocat-guy](https://github.com/ShashankSingh614/ShashankSingh614/assets/118711840/c52f80f7-1f10-4122-ba28-9bfad310bb7a)
+<br>
+<h3 align="center">Meet with Octocat</h3>
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30%" alt="GIF 1">
+  <img src="relative_path_to_gif2.gif" width="30%" alt="GIF 2">
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="30%" alt="GIF 3">
+</p>
