@@ -47,5 +47,5 @@
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30%" alt="GIF 1">
   <img src="https://assets-v2.lottiefiles.com/a/6ae30608-1152-11ee-a832-8bf47b1739dd/KdwHDJSqNs.gif" width="30%" alt="GIF 2">
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="30%" alt="GIF 3">
+  <img src="https://raw.githubusercontent.com/gist/lqb2/48e43ee11e8f5b00542a/raw/75348d50e4a4516469287d0ca2e1a5a69cee07f6/forkit.gif" width="30%" alt="GIF 3">
 </p>
