@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **singhshashankthakur596@gmail.com**
 
+<br>
 <div style="display: flex; align-items: center;">
   <img align="left" width="100" height="100" src="https://octodex.github.com/images/baracktocat.jpg">
   <div style="margin-left: 10px;">
@@ -26,7 +27,7 @@
     </p>
   </div>
 </div>
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
