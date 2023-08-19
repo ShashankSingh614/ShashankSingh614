@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **singhshashankthakur596@gmail.com**
-
 <br>
 <div style="display: flex; align-items: center;">
   <img align="left" width="100" height="100" src="https://octodex.github.com/images/baracktocat.jpg">
