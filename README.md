@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **singhshashankthakur596@gmail.com**
 <p float="left">
-  ![stormtroopocat](https://github.com/ShashankSingh614/ShashankSingh614/assets/118711840/75321172-4143-45cd-850d-90cffa8c6de1)
+  <img align="left" width="100" height="100" src="[https://picsum.photos/100/100](https://user-images.githubusercontent.com/118711840/261792319-75321172-4143-45cd-850d-90cffa8c6de1.png)">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p>
     <h3 align="left">Languages and Tools:</h3>
