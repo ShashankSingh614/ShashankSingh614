@@ -46,6 +46,6 @@
 <h3 align="center">Meet with Octocat</h3>
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30%" alt="GIF 1">
-  <img src="relative_path_to_gif2.gif" width="30%" alt="GIF 2">
+  <img src="https://assets-v2.lottiefiles.com/a/6ae30608-1152-11ee-a832-8bf47b1739dd/KdwHDJSqNs.gif" width="30%" alt="GIF 2">
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="30%" alt="GIF 3">
 </p>
