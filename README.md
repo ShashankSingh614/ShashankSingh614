@@ -10,7 +10,7 @@
 - 📫 How to reach me **singhshashankthakur596@gmail.com**
 
 <div style="display: flex; align-items: center;">
-  <img align="left" width="50" height="50" src="https://octodex.github.com/images/baracktocat.jpg">
+  <img align="left" width="100" height="100" src="https://octodex.github.com/images/baracktocat.jpg">
   <div style="margin-left: 10px;">
     <h3>Languages and Tools:</h3>
     <p>
