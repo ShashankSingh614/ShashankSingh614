@@ -12,7 +12,8 @@
 <div style="display: flex; align-items: center;">
   <img align="left" width="100" height="100" src="https://octodex.github.com/images/baracktocat.jpg">
   <div style="margin-left: 10px;">
-    <h3>Languages and Tools:</h3>
+    <h3>Languages and Tools:</h3> ![daftpunktocat-guy](https://github.com/ShashankSingh614/ShashankSingh614/assets/118711840/eaec5891-6cbe-4a43-bfc4-23edb1cc9a9c)
+
     <p>
       <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
