@@ -54,5 +54,5 @@
 <p align="center">
   https://github.com/ShashankSingh614/ShashankSingh614/assets/118711840/58608ed1-f877-4d06-bc02-7653069aa81b
 </p>
-<br>
+
 [![An image of @shashanksingh614's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashanksingh614)](https://holopin.io/@shashanksingh614)
