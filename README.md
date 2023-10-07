@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
-- 🔭 I’m currently working on [EIR Emergency Imperative Response](https://github.com/ShashankSingh614/EIR-Emergency-Imperative-Response-)
+<h3 align="center">A passionate software developer from India</h3>
   
 - 🧑🏻‍💻 All of my projects are available at [https://github.com/ShashankSingh614?tab=repositories](https://github.com/ShashankSingh614?tab=repositories)
 
