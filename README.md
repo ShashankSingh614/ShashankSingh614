@@ -3,7 +3,7 @@
   
 - 🧑🏻‍💻 All of my projects are available at [https://github.com/ShashankSingh614?tab=repositories](https://github.com/ShashankSingh614?tab=repositories)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 📫 For Enquiry: **singhshashankthakur596@gmail.com**
 <br>
