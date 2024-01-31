@@ -11,61 +11,14 @@
   <img align="left" width="100" height="100" src="https://octodex.github.com/images/baracktocat.jpg">
   <div style="margin-left: 10px;">
     <h3 align="left">Languages and Tools:</h3>
-      <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <strong>AIML :</strong>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a>
-    <!-- Add more AIML technologies as needed -->
-</p>
-
-<p align="left">
-    <strong>Backend :</strong>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-    </a>
-    <!-- Add more Backend technologies as needed -->
-</p>
-
-<p align="left">
-    <strong>Database :</strong>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <!-- Add more Database technologies as needed -->
-</p>
-
-<p align="left">
-    <strong>DevOps :</strong>
-    <!-- Add DevOps technologies as needed -->
-</p>
-
-<p align="left">
-    <strong>Frontend :</strong>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <!-- Add more Frontend technologies as needed -->
-</p>
-
-<p align="left">
-    <strong>Graphics :</strong>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <!-- Add more Graphics technologies as needed -->
-</p>
-
+    <ul>
+            <li>AIML: Python | Deep Learning | AI | ML | NLP</li>
+            <li>Backend: Flask</li>
+            <li>Database: mySQL | PHP</li>
+            <li>DevOps: Azure | AWS</li>
+            <li>Frontend: HTML | CSS | JavaScript | Streamlit</li>
+            <li>Graphics: Photoshop | Corel Draw | After Effect | Figma | Adobe XD</li>
+      </ul>
   </div>
 </div>
 <br>
