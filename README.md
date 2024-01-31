@@ -7,8 +7,6 @@
 
 - 📫 For Enquiry: **singhshashankthakur596@gmail.com**
 <br>
-<div style="display: flex; align-items: center;">
-  <img align="left" width="100" height="100" src="https://octodex.github.com/images/baracktocat.jpg">
   <div style="margin-left: 10px;">
     <h3 align="left">Languages and Tools:</h3>
     <ul>
