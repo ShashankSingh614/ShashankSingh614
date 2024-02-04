@@ -7,17 +7,17 @@
 
 - 📫 For Enquiry: **singhshashankthakur596@gmail.com**
 <br>
-  <div style="margin-left: 10px;">
-    <h3 align="left">Languages and Tools:</h3>
-    <ul>
-        <li>🤖 AIML: Python | Deep Learning | AI | ML | NLP</li>
-        <li>🚀 Backend: Flask</li>
-        <li>🛢️ Database: mySQL | PHP</li>
-        <li>☁️ DevOps: Azure | AWS</li>
-        <li>🌐 Frontend: HTML | CSS | JavaScript | Streamlit</li>
-        <li>🎨 Graphics: Photoshop | Corel Draw | After Effect | Figma | Adobe XD</li>
-    </ul>
-  </div>
+<div style="margin-left: 10px;">
+  <h3 align="left">Languages and Tools:</h3>
+  <ul>
+    <li>🤖 AIML: Python | Deep Learning | AI | ML | NLP</li>
+    <li>🚀 Backend: Flask</li>
+    <li>🛢️ Database: mySQL | PHP</li>
+    <li>☁️ DevOps: Azure | AWS</li>
+    <li>🌐 Frontend: HTML | CSS | JavaScript | Streamlit</li>
+    <li>🎨 Graphics: Photoshop | Corel Draw | After Effect | Figma | Adobe XD</li>
+  </ul>
+</div>
 </div>
 <br>
 
@@ -35,7 +35,11 @@
 </div>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanksingh614&show_icons=true&locale=en&layout=compact" alt="shashanksingh614" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=ShashankSingh614&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
-"/p>
-<br>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanksingh614&show_icons=true&locale=en&layout=compact" alt="shashanksingh614" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashankSingh614&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Shashank's GitHub Stats">
+</p>
