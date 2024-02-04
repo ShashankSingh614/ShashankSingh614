@@ -10,13 +10,13 @@
   <div style="margin-left: 10px;">
     <h3 align="left">Languages and Tools:</h3>
     <ul>
-            <li>AIML: Python | Deep Learning | AI | ML | NLP</li>
-            <li>Backend: Flask</li>
-            <li>Database: mySQL | PHP</li>
-            <li>DevOps: Azure | AWS</li>
-            <li>Frontend: HTML | CSS | JavaScript | Streamlit</li>
-            <li>Graphics: Photoshop | Corel Draw | After Effect | Figma | Adobe XD</li>
-      </ul>
+        <li>🤖 AIML: Python | Deep Learning | AI | ML | NLP</li>
+        <li>🚀 Backend: Flask</li>
+        <li>🛢️ Database: mySQL | PHP</li>
+        <li>☁️ DevOps: Azure | AWS</li>
+        <li>🌐 Frontend: HTML | CSS | JavaScript | Streamlit</li>
+        <li>🎨 Graphics: Photoshop | Corel Draw | After Effect | Figma | Adobe XD</li>
+    </ul>
   </div>
 </div>
 <br>
