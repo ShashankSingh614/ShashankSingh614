@@ -14,6 +14,7 @@
     <li>🚀 Backend: Flask</li>
     <li>🛢️ Database: mySQL | PHP</li>
     <li>☁️ DevOps: Azure | AWS</li>
+    <li>🔒 Blockchain: Go
     <li>🌐 Frontend: HTML | CSS | JavaScript | Streamlit</li>
     <li>🎨 Graphics: Photoshop | Corel Draw | After Effect | Figma | Adobe XD</li>
   </ul>
