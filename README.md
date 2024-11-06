@@ -44,11 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShashankSingh614&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Shashank's GitHub Stats">
 </div>
 
-<div align="center">
-  <a href="https://api.badgr.io/public/assertions/PQNdySDfQJKl_pdjmI6B1g">
-    <img width="120" height="120" src="https://api.badgr.io/public/assertions/PQNdySDfQJKl_pdjmI6B1g/image" alt="Postman API Fundamentals Student Expert Badge">
-  </a>
-  <p><strong>Postman API Fundamentals Student Expert</strong></p>
-  <p>Awarded: Nov 6, 2024</p>
-</div>
+[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/PQNdySDfQJKl_pdjmI6B1g/image)](https://api.badgr.io/public/assertions/PQNdySDfQJKl_pdjmI6B1g)
+**Postman API Fundamentals Student Expert**  
+Awarded: Nov 6, 2024
 
