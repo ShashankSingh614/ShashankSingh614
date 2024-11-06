@@ -35,9 +35,6 @@
     </p>
   </div>
 </div>
-<div>
-  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/PQNdySDfQJKl_pdjmI6B1g?identity__email=singhshashankthakur596%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/PQNdySDfQJKl_pdjmI6B1g/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Nov 6, 2024</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FPQNdySDfQJKl_pdjmI6B1g%3Fidentity__email%3Dsinghshashankthakur596%2540gmail.com&amp;identity__email=singhshashankthakur596%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
-</div>
 <br>
 <br>
 
@@ -46,3 +43,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankSingh614&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="shashanksingh614" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShashankSingh614&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Shashank's GitHub Stats">
 </div>
+
+<div align="center">
+  <a href="https://api.badgr.io/public/assertions/PQNdySDfQJKl_pdjmI6B1g">
+    <img width="120" height="120" src="https://api.badgr.io/public/assertions/PQNdySDfQJKl_pdjmI6B1g/image" alt="Postman API Fundamentals Student Expert Badge">
+  </a>
+  <p><strong>Postman API Fundamentals Student Expert</strong></p>
+  <p>Awarded: Nov 6, 2024</p>
+</div>
+
