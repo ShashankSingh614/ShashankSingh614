@@ -10,7 +10,7 @@
 
 ---
 
-### 🏅 Certifications & Badges
+### 🏅 Badges
 
 <p align="left">
   <img src="https://github.com/ShashankSingh614/ShashankSingh614/blob/main/images/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" alt="GenAI 101 with Pieces" width="120" height="120" />
